@@ -1,5 +1,5 @@
 **The fixes for this package come from the Elm Janitor project. We add some
-addiitional versioning.**
+addiitional versioning and change some metadata.**
 
 See
 [https://github.com/elm-janitor/random](https://github.com/elm-janitor/random).
