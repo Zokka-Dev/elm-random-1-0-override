@@ -1,7 +1,7 @@
 {
 	"type": "package",
-	"name": "elm/random",
-	"summary": "Generate random numbers and values (RNG)",
+	"name": "zokka-dev/elm-random-1-0-override",
+	"summary": "Override of the elm/random 1.0.x packages including bug fixes that have not been merged in.",
 	"license": "BSD-3-Clause",
 	"version": "1.0.0",
 	"exposed-modules": [
