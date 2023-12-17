@@ -1,3 +1,9 @@
+**The fixes for this package come from the Elm Janitor project. We add some
+addiitional versioning.**
+
+See
+[https://github.com/elm-janitor/random](https://github.com/elm-janitor/random).
+
 # Randomness
 
 Need to generate random numbers? How about random game boards? Or random positions in 3D space? This is the package for you!
